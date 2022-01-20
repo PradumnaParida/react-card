@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bolder;
+  color: brown;
+}
+.bg {
+  background-color: rgb(223, 206, 174);
+}
